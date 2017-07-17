@@ -1,12 +1,12 @@
 <template>
-    <div class="m-header">
-        <div class="icon">
-    
-        </div>
-        <div class="text">
-            Yui Music
-        </div>
+  <div class="m-header">
+    <div class="icon">
+  
     </div>
+    <div class="text">
+      壹点音乐
+    </div>
+  </div>
 </template>
 <script>
 export default {
